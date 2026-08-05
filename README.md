@@ -13,13 +13,9 @@ Building modern web applications and exploring Artificial Intelligence & Machine
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=muna-adam&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=muna-adam&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muna-adam&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://streak-stats.demolab.com?user=muna-adam&theme=tokyonight" />
 </p>
-
 
 ## 🌐 Connect with Me
 
