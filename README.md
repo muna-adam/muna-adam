@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Maymuun Aadan</h1>
-<h3 align="center">Frontend Developer | React Enthusiast | AI/ML Learner</h3>
 
 <p align="center">
 Building modern web applications and exploring Artificial Intelligence & Machine Learning.
@@ -8,13 +7,17 @@ Building modern web applications and exploring Artificial Intelligence & Machine
 ## 👩‍💻 About Me
 
 - 🌱 Currently learning **AI Engineering, Advanced React, and Backend Development**
-- 🎯 Career Goal: Becoming a Full Stack Developer and AI Engineer by building real-world web applications and intelligent AI solutions.
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=muna-adam&show_icons=true&theme=tokyonight" />
+
   <img height="170" src="https://streak-stats.demolab.com?user=muna-adam&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muna-adam&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🌐 Connect with Me
