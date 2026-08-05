@@ -8,8 +8,7 @@ Building modern web applications and exploring Artificial Intelligence & Machine
 
 - 🌱 Currently learning **AI Engineering, Advanced React, and Backend Development**
 
-## 📊 GitHub Stats
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=muna-adam&show_icons=true&theme=tokyonight
+
 ## 🌐 Connect with Me
 
 <p>
