@@ -1,25 +1,33 @@
 <h1>Hi 👋, I'm Maymuun Aadan</h1>
 
-<p>
-Building modern web applications and exploring Artificial Intelligence & Machine Learning.
-</p>
+<h3>
+Aspiring Full Stack Developer & AI Engineer
+</h3>
 
 ## 👩‍💻 About Me
 
-- 🌱 Currently learning **AI Engineering, Advanced React, and Backend Development**
+- 🌱 Currently learning and building my path toward **Full Stack Development & AI Engineering**.
+- 🚀 Building real-world projects to strengthen my **Full Stack Development & AI Engineering** skills.
+- 🤖 Built practical, real-world projects using Data Science & Machine Learning concepts.
 
 ## 📊 GitHub Stats
-
-<!-- <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.shion.dev/api?username=muna-adam&show_icons=true&theme=tokyonight"
-  /> -->
 
   <img 
     height="170"
     src="https://streak-stats.demolab.com?user=muna-adam&theme=tokyonight"
   />
+</p>
+
+<p>
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=muna-adam&layout=compact&theme=tokyonight"
+  />
+</p>
+
+## 🛠️ Technologies I'm Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,python,git,github" />
 </p>
 
 ## 🌐 Connect with Me
