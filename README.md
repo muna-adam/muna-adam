@@ -30,9 +30,3 @@ Building modern web applications and exploring Artificial Intelligence & Machine
   </a>
 </p>
 
----
-
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
-
