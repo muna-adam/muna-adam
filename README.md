@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Maymuun Aadan</h1>
+<h1>Hi 👋, I'm Maymuun Aadan</h1>
 
-<p align="center">
+<p>
 Building modern web applications and exploring Artificial Intelligence & Machine Learning.
 </p>
 
@@ -16,7 +16,7 @@ Building modern web applications and exploring Artificial Intelligence & Machine
     src="https://github-readme-stats.shion.dev/api?username=muna-adam&show_icons=true&theme=tokyonight"
   /> -->
 
-  <img  align="center
+  <img 
     height="170"
     src="https://streak-stats.demolab.com?user=muna-adam&theme=tokyonight"
   />
