@@ -8,7 +8,7 @@ Aspiring Full Stack Developer & AI Engineer
 
 - 🌱 Currently learning and building my path toward **Full Stack Development & AI Engineering**.
 - 🚀 Building real-world projects to strengthen my **Full Stack Development & AI Engineering** skills.
-- 🤖 Built practical, real-world projects using Data Science & Machine Learning concepts.
+- 🤖 Built practical, real-world projects using Data Science & Machine Learning concepts, https://github.com/muna-adam/lung-cancer-risk-level-prediction.
 
 ## 📊 GitHub Stats
 
