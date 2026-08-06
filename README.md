@@ -16,7 +16,7 @@ Building modern web applications and exploring Artificial Intelligence & Machine
     src="https://github-readme-stats.shion.dev/api?username=muna-adam&show_icons=true&theme=tokyonight"
   /> -->
 
-  <img
+  <img  align="center
     height="170"
     src="https://streak-stats.demolab.com?user=muna-adam&theme=tokyonight"
   />
