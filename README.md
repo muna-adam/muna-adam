@@ -6,7 +6,10 @@ Aspiring Full Stack Developer & AI Engineer
 
 ## 👩‍💻 About Me
 
-I'm Maymun Aden, a developer passionate about Full-Stack Development, Artificial Intelligence, and Data Science. I enjoy building practical applications that turn ideas into meaningful, real-world solutions.
+- 🌱 Currently learning and building my path toward **Full Stack Development & AI Engineering**.
+- 🚀 Building real-world projects while growing my **Full Stack Development & AI Engineering** skills.
+- 🤖 Built practical, real-world projects using **Data Science & Machine Learning** concepts.
+
 
 ## 🚀 Projects
 
