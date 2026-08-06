@@ -24,17 +24,5 @@ Aspiring Full Stack Developer & AI Engineer
   />
 </p>
 
-## 🛠️ Technologies I'm Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,python,git,github" />
-</p>
-
-## 🌐 Connect with Me
-
-<p>
-  <a href="https://x.com/muno_adam">
-    X (Twitter)
-  </a>
-</p>
 
